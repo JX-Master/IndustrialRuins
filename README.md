@@ -7,6 +7,13 @@ The whole program was written in C++, using Direct3D 11 as rendering backend.
 
 You can download a copy of the program, and share with your friends freely.
 
+# System Requirements
+OS: Windows 7 and above. (Supporting DirectX 11.0)
+
+Runtime: Visual C++ 2015 Redistributable.
+
+There should not be any requirement for CPU and Graphics.
+
 # Guidelines.
 If you can't see the Debug Window, press '`' key, which is often the console key in most game engines.
 
