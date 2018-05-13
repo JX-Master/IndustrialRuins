@@ -1,3 +1,5 @@
+![Cover Image](https://github.com/JX-Master/IndustrialRuins/blob/master/images/cover.png)
+
 # IndustrialRuins
 This repository hosts the release version of the demo application "Industrial Ruins".
 
