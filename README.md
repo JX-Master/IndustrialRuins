@@ -29,6 +29,11 @@ Remember to put the "Config.jx" file in the same directory of the exe file, and 
 * Use Simplex Noise to generate water waves.
 * Simple Post Process.
 
+## Release Notes.
+### V1.1
+* Fixed the bug that keyboard input will keep going without delay(which makes it hard to input characters).
+* Add support for using your own filename for saving/loading config files.
+
 ## Author Info.
 JXMaster form School of Digital Media of Jiangnan University in Wuxi, Jiangsu Province, China.
 
